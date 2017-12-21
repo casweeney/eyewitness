@@ -1,0 +1,6 @@
+header{
+	background: #283D64;
+	color: #fff;
+	border-top: 10px solid #c30;
+	border-bottom: 10px solid #c30;
+}
